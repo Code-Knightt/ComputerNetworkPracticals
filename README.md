@@ -48,10 +48,12 @@ Frame with flags and bit stuffing:
 0111111011111011111010001111110
 ```
 10. Shortest Path Routing(Dijkstra)
+![Dijkstra Graph](prac_10.png)
 ```
 [0, 2, 3, 1, 2, 4]
 ```
 11. Distance Vector Routing
+![Distance Vector Graph](prac_11.png)
 ```
 [0, 3, 5, 10]
 [3, 0, 2, 7]
